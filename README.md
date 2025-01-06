@@ -19,6 +19,6 @@
 
 ## 🌱 Currently Learning
 
-- NLP and Computer Vision
+- ML, NLP and Computer Vision
 
 
