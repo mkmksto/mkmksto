@@ -1,8 +1,8 @@
 ## 🔧 Technologies & Tools
 
 - **Frontend Development**:
-  - ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-  - ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react)
+  - ![Next.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png)
+  - ![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png)
   - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript)
 
 - **Backend Development**:
