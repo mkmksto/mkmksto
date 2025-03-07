@@ -1,6 +1,6 @@
 ## 🔧 Technologies & Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,typescript,vuejs,svelte)
 
 ## 🌱 Currently Learning
 
