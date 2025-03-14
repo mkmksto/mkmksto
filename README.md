@@ -8,4 +8,6 @@
 
 - ML, NLP and Computer Vision
 
+## 📞
+say hi/complain about my 🗑️💩 code maquinto [at] up.edu.ph
 
