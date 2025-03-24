@@ -1,4 +1,7 @@
-`linear algebra and code`  
+`linear algebra`  
+`web developement`  
+`software engineering`  
+`machine learning`  
 
 ## 🔧 Technologies & Tools
 
