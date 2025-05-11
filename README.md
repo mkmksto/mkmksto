@@ -1,3 +1,5 @@
+Master of Engineering in Artificial Intelligence Student  
+
 `linear algebra`  
 `web developement`  
 `software engineering`  
