@@ -16,5 +16,5 @@ Master of Engineering in Artificial Intelligence Student
 - ML, NLP and Computer Vision
 
 ## 📞
-say hi/complain about my 🗑️💩 code: `maquinto [at] up.edu.ph`
+→ `maquinto [at] up.edu.ph`
 
