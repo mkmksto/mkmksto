@@ -7,7 +7,9 @@ Master of Engineering in Artificial Intelligence Student
 
 ## 🔧 Technologies & Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,typescript,javascript,drizzle,shadcn,vuejs,svelte,nodejs,trpc,expressjs,nextjs,postgresql,python,pytorch,scikitlearn,docker,digitalocean,linux,neovim,githubactions,pnpm,supabase,vercel,cloudflare,bash,reactnative,expo,aws,gcp,vim)
+![Machine Learning](https://go-skill-icons.vercel.app/api/icons?i=postgresql,python,pytorch,scikitlearn,docker,digitalocean,linux,neovim,bash,vim)
+
+![Web Dev](https://go-skill-icons.vercel.app/api/icons?i=react,typescript,javascript,drizzle,shadcn,vuejs,svelte,nodejs,trpc,expressjs,nextjs,githubactions,pnpm,supabase,vercel,cloudflare,reactnative,expo,aws,gcp)
 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=coolify,fastify,fastapi,zod,tanstack)
 
