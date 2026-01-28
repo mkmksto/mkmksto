@@ -1,12 +1,12 @@
 <pre>
 ~$ info
-Master of Engineering in Artificial Intelligence Student  
+Master of Engineering in <b>Artificial Intelligence</b> Student  
 
 ~$ skills
-`linear algebra`
-`machine learning`
-`web developement`  
-`software engineering`  
+<b>linear algebra</b>
+<b>machine learning</b>
+web developement
+software engineering
 
 ~$ machine_learning
 <img src="https://skills-icons.vercel.app/api/icons?perline=9&i=python,pytorch,huggingface,scikitlearn,polars,opencv,yolo,fastapi,docker,linux,neovim,vim,postgresql,uv,csharp,unity)" />
