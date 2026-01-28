@@ -1,3 +1,5 @@
+<pre>
+~$ info
 Master of Engineering in Artificial Intelligence Student  
 
 `linear algebra`  
@@ -5,16 +7,16 @@ Master of Engineering in Artificial Intelligence Student
 `software engineering`  
 `machine learning`  
 
-## 🔧 Technologies & Tools
+~$ machine_learning
 
-![Machine Learning](https://skills-icons.vercel.app/api/icons?i=python,pytorch,huggingface,scikitlearn,polars,opencv,yolo,fastapi,docker,digitalocean,linux,neovim,bash,vim,postgresql,uv,csharp,unity)
+![Machine Learning](https://skills-icons.vercel.app/api/icons?perline=8&i=python,pytorch,huggingface,scikitlearn,polars,opencv,yolo,fastapi,docker,linux,neovim,vim,postgresql,uv,csharp,unity)
 
-![Web Dev](https://skills-icons.vercel.app/api/icons?i=react,typescript,tanstack,drizzle,svelte,nodejs,trpc,nextjs,cloudflare,reactnative,expo,googlecloud,amazonwebservices,coolify,fastify)
+~$ web_dev
+  
+![Web Dev](https://skills-icons.vercel.app/api/icons?perline=8&i=react,typescript,tanstack,drizzle,svelte,trpc,cloudflare,reactnative,expo,googlecloud,amazonwebservices,fastify)
 
-## 🌱 Currently Learning
 
-- ML, NLP and Computer Vision
-
-## 📞
+~$ contact
 → `maquinto [at] up.edu.ph`
+</pre>
 
