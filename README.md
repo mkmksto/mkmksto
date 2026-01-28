@@ -9,11 +9,11 @@ Master of Engineering in Artificial Intelligence Student
 
 ~$ machine_learning
 
-![Machine Learning](https://skills-icons.vercel.app/api/icons?perline=8&i=python,pytorch,huggingface,scikitlearn,polars,opencv,yolo,fastapi,docker,linux,neovim,vim,postgresql,uv,csharp,unity)
+<img src="https://skills-icons.vercel.app/api/icons?perline=8&i=python,pytorch,huggingface,scikitlearn,polars,opencv,yolo,fastapi,docker,linux,neovim,vim,postgresql,uv,csharp,unity)" />
 
 ~$ web_dev
   
-![Web Dev](https://skills-icons.vercel.app/api/icons?perline=8&i=react,typescript,tanstack,drizzle,svelte,trpc,cloudflare,reactnative,expo,googlecloud,amazonwebservices,fastify)
+<img src="https://skills-icons.vercel.app/api/icons?perline=8&i=react,typescript,tanstack,drizzle,svelte,trpc,cloudflare,reactnative,expo,googlecloud,amazonwebservices,fastify)" />
 
 
 ~$ contact
