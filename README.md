@@ -9,7 +9,7 @@ web developement
 software engineering
 
 ~$ machine_learning
-<img src="https://skills-icons.vercel.app/api/icons?perline=9&i=python,pytorch,huggingface,scikitlearn,polars,opencv,yolo,fastapi,docker,)" />
+<img src="https://skills-icons.vercel.app/api/icons?perline=10&i=python,pytorch,huggingface,scikitlearn,polars,opencv,yolo,fastapi,docker,manim,)" />
 
 ~$ web_dev
 <img src="https://skills-icons.vercel.app/api/icons?perline=9&i=react,typescript,tanstack,drizzle,svelte,trpc,reactnative,expo,fastify,)" />
