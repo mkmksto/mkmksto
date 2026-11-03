@@ -1,6 +1,6 @@
 <pre>
 ~$ info
-Master of Engineering in <b>Artificial Intelligence</b> Student  
+Master of Engineering in <b>Artificial Intelligence</b>, UP Diliman  
 
 ~$ skills
 <b>linear algebra</b>
